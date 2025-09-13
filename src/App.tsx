@@ -1,9 +1,7 @@
+import ChatPage from "@/pages/page";
+
 function App() {
-  return (
-    <>
-      <p>NoAI</p>
-    </>
-  );
+  return <ChatPage />;
 }
 
 export default App;
